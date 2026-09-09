@@ -7,7 +7,7 @@ The data pipeline flows across the following components:
 [UCI Repository API] ➔ [Python Pandas (ETL)] ➔ [MySQL Database] ➔ [Power BI Dashboard]
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png.png)
 
 ## 🛠️ Core Technologies Used
 * **Data Processing:** Python 3.14 (Pandas, SQLAlchemy, PyMySQL)
